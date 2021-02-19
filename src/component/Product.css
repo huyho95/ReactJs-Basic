@@ -1,0 +1,8 @@
+.ml-3 {
+  margin-left: 20px;
+}
+
+.btn:focus {
+  outline-offset: 0px;
+  border-color: transparent;
+}
